@@ -5,4 +5,5 @@ client_scripts {
         'client/disablerewards.lua',
         'client/visualsettings.lua',
 	'client/disabledispatch.lua',
+        'client/policeveh.lua',
 }
