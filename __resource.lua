@@ -4,4 +4,5 @@ client_scripts {
         'client/idoverhead.lua',
         'client/disablerewards.lua',
         'client/visualsettings.lua',
+	'client/disabledispatch.lua',
 }
